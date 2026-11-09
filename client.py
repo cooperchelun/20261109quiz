@@ -4,7 +4,7 @@ import pygame
 import requests
 
 # 保留指定的 Render 雲端網址
-API_BASE_URL = "https://two0261109quiz.onrender.com"
+API_BASE_URL = "https://wordle-server-a076.onrender.com"
 
 # 顏色定義
 COLOR_BG = (18, 18, 19)
